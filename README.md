@@ -1,4 +1,5 @@
 <img src="https://github.com/yuhcee/viact_news/blob/main/public/viact_logo1.png?raw=true" width="200" height="200" style="margin-left: 40%">
+[![Netlify Status](https://api.netlify.com/api/v1/badges/70995fe8-909a-4be4-96c3-88a7d390f7f9/deploy-status)](https://app.netlify.com/sites/viact-news/deploys)
 
 # VIACT NEWS 🔥
 
@@ -24,7 +25,7 @@ A single page application that displays news articles from [newsapi.org](https:/
 - Search is performed as the user is typing in the search bar.
 
 8. Containerized with Docker.
-9. Hosted on [Netlify](https://todo/).
+9. Hosted on [Netlify](https://viact-news.netlify.app/).
 
 ## Tools Used
 
@@ -52,5 +53,5 @@ A single page application that displays news articles from [newsapi.org](https:/
 - Implement Design Patterns
 - Enhance UI design.
 
-You can view the finished site [here](https://todo/).
+You can view the finished site [here](https://viact-news.netlify.app/).
 
