@@ -1,4 +1,4 @@
-<img src="https://github.com/yuhcee/viact_news/blob/main/public/logo192.png?raw=true" width="200" height="200" style="margin-left: 40%">
+<img src="https://github.com/yuhcee/viact_news/blob/main/public/viact_logo1.png?raw=true" width="200" height="200" style="margin-left: 40%">
 
 # VIACT NEWS 🔥
 

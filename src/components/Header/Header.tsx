@@ -1,11 +1,10 @@
-import React, { ChangeEvent } from 'react';
+import { ChangeEvent } from 'react';
 import './Header.style.ts';
 import { AppBar, Toolbar, Typography, InputBase } from '@material-ui/core';
 import Avatar from '@material-ui/core/Avatar';
 import SearchIcon from '@material-ui/icons/Search';
 import { useStyles } from './Header.style';
 import { useStoreActions } from '../../store/redux';
-import * as _ from 'lodash';
 
 interface Props {
   onSearch?: (searchText: string) => void;
