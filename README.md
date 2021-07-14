@@ -1,7 +1,7 @@
 <img src="https://github.com/yuhcee/viact_news/blob/main/public/viact_logo1.png?raw=true" width="200" height="200" style="margin-left: 40%">
-[![Netlify Status](https://api.netlify.com/api/v1/badges/70995fe8-909a-4be4-96c3-88a7d390f7f9/deploy-status)](https://app.netlify.com/sites/viact-news/deploys)
 
 # VIACT NEWS 🔥
+[![Netlify Status](https://api.netlify.com/api/v1/badges/70995fe8-909a-4be4-96c3-88a7d390f7f9/deploy-status)](https://app.netlify.com/sites/viact-news/deploys)
 
 A single page application that displays news articles from [newsapi.org](https://newsapi.org/).
 
